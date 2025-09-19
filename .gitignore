@@ -1,0 +1,9 @@
+/venv
+.idea
+*.txt
+!requirements.txt
+/__pycache__
+.env
+*.sql
+nohup.out
+cron.log

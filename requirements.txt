@@ -1,0 +1,11 @@
+# Core requirements
+openpyxl>=3.1.2
+
+# GUI requirements (optional but recommended)
+tkinterdnd2>=0.3.0  # For drag-and-drop support in GUI
+
+# Build requirements (for creating executable - Windows)
+pyinstaller>=6.0.0  # For building standalone executable
+
+# Testing requirements
+unittest2>=1.1.0  # For running tests (if Python < 3.2)
